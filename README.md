@@ -1,1 +1,2 @@
 # codedoc
+My name is Rick and I work in health care but have always been fascinated by computer programming.  Both of my parents were computer programmers for Bell Laboratories in the 60's.  Yes, I'm in my early 50's, but please don't stereotype me as someone who doesn't know where the on/off button is on my computer.  My son is on college now and I've decided to try to teach myself to code, just for fun.
